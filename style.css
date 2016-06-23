@@ -39,6 +39,7 @@ nav li{
   margin: auto;
   overflow: hidden;
   padding-top: 120px;
+  display: block;
 }
 .first section{
   font-family: sans-serif;
@@ -47,6 +48,8 @@ nav li{
 .first section h2,p{
   text-align: center;
   font-style: italic;
+  color: #555;
+  font-size: 14px;
 }
 .first h5{
   text-align: center;
@@ -56,11 +59,15 @@ nav li{
 .second p,h4{
   text-align: center;
   font-family: sans-serif;
+  color: #555;
+  font-size: 14px;
 }
 .second h2{
   text-align: center;
   font-family: sans-serif;
   text-shadow: 5px 10px 10px grey;
+  color: #555;
+  font-size: 14px;
 }
 .third {
   padding-top: 20px;
@@ -76,6 +83,8 @@ nav li{
 .four h4,p{
   text-align: center;
   font-family: sans-serif;
+  color: #555;
+  font-size: 14px;
 }
 .four h2{
   text-align: center;
