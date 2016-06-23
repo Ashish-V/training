@@ -1,0 +1,106 @@
+.header1{
+  width: 100%;
+  margin: auto;
+  background: black;
+  position:fixed;
+}
+.header1 ul li{
+  color: black;
+  display: inline;
+}
+nav li{
+  display: inline;
+}
+.header1 nav ul a{
+    text-decoration: none;
+    font-size: 18px;
+    float: right;
+    font-family: sans-serif;
+    color: darkgrey;
+    margin-right: 30px;
+    margin-top: 20px;
+
+}
+.header1 ul a:hover{
+  font-size: 20px;
+}
+.header1 h4{
+  text-indent: -9999px;
+  margin-left: 10px;
+  height: 0px;
+  width: 80px;
+}
+.header1 img{
+  margin-left: 20px;
+  padding-top: 10px;
+  float: left;
+}
+.first{
+  margin: auto;
+  overflow: hidden;
+  padding-top: 120px;
+}
+.first section{
+  font-family: sans-serif;
+  padding-top: 20px;
+}
+.first section h2,p{
+  text-align: center;
+  font-style: italic;
+}
+.first h5{
+  text-align: center;
+  font-family: sans-serif;
+  text-shadow: 5px 10px 10px grey;
+}
+.second p,h4{
+  text-align: center;
+  font-family: sans-serif;
+}
+.second h2{
+  text-align: center;
+  font-family: sans-serif;
+  text-shadow: 5px 10px 10px grey;
+}
+.third {
+  padding-top: 20px;
+  text-align: center;
+  font-family: sans-serif;
+}
+.third h5{
+  font-style: normal;
+}
+.third h4{
+  text-shadow: 5px 10px 10px grey;
+}
+.four h4,p{
+  text-align: center;
+  font-family: sans-serif;
+}
+.four h2{
+  text-align: center;
+  font-family: sans-serif;
+  text-shadow: 5px 10px 10px grey;
+}
+.four section img{
+  padding-top: 60px;
+}
+footer{
+  width: 100%;
+  background: black;
+  color: white;
+  font-style: normal;
+  padding-top: 10px;
+  float: left;
+}
+footer li{
+  display: inline;
+}
+
+.text{
+  position:absolute;
+  top:600px;
+  color:grey;
+  font-size: 18px;
+  font-style: normal;
+}
